@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job: MyString
+  employmentdate: MyString
+  salary: 1
+  candidate_id: 1
+
+two:
+  job: MyString
+  employmentdate: MyString
+  salary: 1
+  candidate_id: 1
